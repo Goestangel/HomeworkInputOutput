@@ -1,0 +1,1 @@
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config

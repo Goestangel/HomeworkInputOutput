@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.exe
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.pdb

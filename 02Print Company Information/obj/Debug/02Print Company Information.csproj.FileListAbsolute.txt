@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02Print Company Information\bin\Debug\02Print Company Information.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02Print Company Information\bin\Debug\02Print Company Information.exe
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02Print Company Information\bin\Debug\02Print Company Information.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02Print Company Information\obj\Debug\02Print Company Information.exe
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02Print Company Information\obj\Debug\02Print Company Information.pdb

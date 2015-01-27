@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.exe
+c:\users\goshev\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.pdb
